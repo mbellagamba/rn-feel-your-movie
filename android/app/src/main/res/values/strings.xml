@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FeelYourMovie</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">xaEQUQ0_V6gQ84RY7GGsOVmf_60-WHulJwMxw</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+</resources>
